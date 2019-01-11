@@ -789,5 +789,71 @@ padding:10px;
 .lnks {
     padding-top:28px;
 }
-
+.product_details {
+    margin-top: 72px;
+    margin-left: 98px;
+}
+.product_image {
+    float:left;
+}
+.product_details h1 {
+    color:  #212121;
+    font-size: 35.98px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: center;
+    transform: scaleY(1.0005);
+    padding-top: 47px;  
+}
+.product_details h2 {
+    color:  #212121;
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 300;
+    line-height: 24px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    transform: scaleY(1.0005);
+}
+.product_details h3 {
+    color:  #e53935;
+    font-size: 18px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 48px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+    transform: scaleY(1.0005);
+}
+.product_details p {
+color:  #212121;
+font-size: 36px;/* Приближение из-за подстановки шрифтов */
+font-weight: 300;
+line-height: 48px;/* Приближение из-за подстановки шрифтов */
+text-align: center;
+    padding-top:26px;
+}
+.product_details span {
+color:  #212121;
+font-size: 72px;/* Приближение из-за подстановки шрифтов */
+font-weight: 300;
+line-height: 48px;/* Приближение из-за подстановки шрифтов */
+text-align: center;
+transform: scaleY(1.0005);
+}
+.button {
+    margin-left:654px;
+    margin-top:15px;
+    width:510px;
+}
+.button a {
+    display:block;
+    background:  #f44336;
+    box-shadow: 0px 2px 4.85px 0.15px rgba(33, 33, 33, 0.35);
+    width: 510px;
+    height: 71px;
+    text-decoration: none;
+    border-radius:44px;
+    color:  #ffffff;
+    font-size: 21.99px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 70px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+    transform: scaleY(1.0005);
+}
 
